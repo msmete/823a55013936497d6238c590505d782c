@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SpacecraftProject</string>
+    <string name="title_dashboard">Station</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_game">Game</string>
+    <string name="spacecraft_name_title">Enter SpaceCraft Name</string>
+    <string name="total_point">Total Point</string>
+    <string name="speed_title">Speed</string>
+    <string name="capacity_title">Capacity</string>
+    <string name="durability_title">Durability</string>
+    <string name="continue_text">Continue</string>
+    <string name="ok_text">OK</string>
+    <string name="name_area_empty_error">Please fill in the name field</string>
+    <string name="total_point_error">Please give all points</string>
+    <string name="service_error">Service error, please restart application</string>
+    <string name="current_station">Current Station</string>
+    <string name="search">Search...</string>
+    <string name="travel">Travel</string>
+    <string name="distance_from_craft">Distance from Craft</string>
+    <string name="distance_to_earth">Distance from Earth</string>
+    <string name="end_message_UGS">UGS is over.\nBack to the world.</string>
+    <string name="end_message_DAMAGE">Damage capacity has expired.\nBack to the world.</string>
+    <string name="end_message_EUS">No enough EUS.\nBack to the world.</string>
+
+</resources>
